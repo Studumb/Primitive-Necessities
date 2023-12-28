@@ -6,5 +6,6 @@
   2.Tiredness bar
   - That all the features I'm currently plan to add into the mod. More features in the future. 
 - This mod is currently W.I.P, please be patient.
-- Require [Spore ModAPI]().
+- Require [Spore ModAPI](http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/).
 # Credits
+- [@emd4600](https://github.com/emd4600)
