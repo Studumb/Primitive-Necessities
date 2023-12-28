@@ -7,5 +7,5 @@
   - That all the features I'm currently plan to add into the mod. More features in the future. 
 - This mod is currently W.I.P, please be patient.
 - Require [Spore ModAPI](http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/).
-# Credits
-- [@emd4600](https://github.com/emd4600)
+## Credits
+- [@emd4600](https://github.com/emd4600) - The creator of Spore ModAPI SDK, the modding tool used to make this mod.
